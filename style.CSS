@@ -60,3 +60,18 @@ p {
     font-size: 40px;
     font-weight: 300;
 }
+
+a{
+    text-decoration: none;
+    
+}
+
+.article:hover {
+    color: aquamarine;
+    
+}
+
+html{
+    scroll-behavior: smooth;
+    
+}
