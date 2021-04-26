@@ -75,3 +75,31 @@ html{
     scroll-behavior: smooth;
     
 }
+
+#dance{
+    width: 100%;
+    height:800px;
+    background-color:brown;
+}
+#my-work{
+    width: 100%;
+    height: 800px;
+    background-color: blue
+}
+
+#inspo {
+    width: 100px;
+    height:800px;
+    background-color: darkcyan;
+}
+
+img{
+    transition:transform 0.2s;
+    
+    
+}
+
+img:hover{
+    transform:scale(0.9);
+}
+
